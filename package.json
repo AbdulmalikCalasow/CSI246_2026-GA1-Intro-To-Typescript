@@ -1,0 +1,25 @@
+{
+  "name": "csi246_2026-ga1-intro-to-typescript",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">  \r     <img src=\"logo.jpg\" alt=\"Logo\">\r     <h3 align=\"center\">Guided Activity 1</h3>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulmalikCalasow/CSI246_2026-GA1-Intro-To-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AbdulmalikCalasow/CSI246_2026-GA1-Intro-To-Typescript/issues"
+  },
+  "homepage": "https://github.com/AbdulmalikCalasow/CSI246_2026-GA1-Intro-To-Typescript#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
+  }
+}
